@@ -1,13 +1,20 @@
 <h1 align="center">Shaad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+student+building+real+projects;Exploring+IoT%2C+ESP32%2C+and+intelligent+systems;Learning+by+turning+ideas+into+working+code" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=AI+student+building+real+projects;Exploring+IoT%2C+ESP32%2C+and+intelligent+systems;Learning+by+turning+ideas+into+working+code" alt="Typing intro" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Shaadi619"><img src="https://img.shields.io/badge/GitHub-Shaadi619-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:shaadssem@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Shaadi619&style=for-the-badge&color=1f6feb" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-In%20Progress-58A6FF?style=flat-square" alt="AI in progress" />
+  <img src="https://img.shields.io/badge/IoT-Building-1f6feb?style=flat-square" alt="IoT building" />
+  <img src="https://img.shields.io/badge/ESP32-Projects-0d1117?style=flat-square" alt="ESP32 projects" />
+  <img src="https://img.shields.io/badge/Chelsea-Fan-034694?style=flat-square" alt="Chelsea fan" />
 </p>
 
 <p align="center">
@@ -28,13 +35,33 @@ I like keeping my work clean, understandable, and honest to where I am in the le
 - ESP32 and sensor-based IoT systems with real decision logic
 - Better documentation and presentation for the projects I publish
 
-## `featured_projects`
+## `explore_my_projects`
 
-### [Smart Traffic Light System](https://github.com/Shaadi619/IOT_CLASS_PROJECT)
-An ESP32-based traffic controller that responds to vehicle detection, pedestrian requests, ambient light, and motion input. It includes a countdown display, buzzer alerts, night mode, and a small web dashboard for live monitoring.
+<details open>
+  <summary><strong>Smart Traffic Light System</strong></summary>
+  <br />
+  <a href="https://github.com/Shaadi619/IOT_CLASS_PROJECT">Open repository</a>
+  <br /><br />
+  An ESP32-based traffic controller that responds to vehicle detection, pedestrian requests, ambient light, and motion input.
+  <br /><br />
+  Highlights:
+  <br />
+  - countdown display
+  <br />
+  - buzzer alerts
+  <br />
+  - night mode
+  <br />
+  - live web dashboard
+</details>
 
-### [Advanced AI Class](https://github.com/Shaadi619/Advanced-AI_Class)
-A growing collection of notebooks, exercises, and class work from my AI studies as I build a stronger foundation in the field.
+<details>
+  <summary><strong>Advanced AI Class</strong></summary>
+  <br />
+  <a href="https://github.com/Shaadi619/Advanced-AI_Class">Open repository</a>
+  <br /><br />
+  A growing collection of notebooks, exercises, and class work from my AI studies as I build a stronger foundation in the field.
+</details>
 
 ## `tech_stack`
 
@@ -51,7 +78,15 @@ A growing collection of notebooks, exercises, and class work from my AI studies 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaadi619&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-## `outside_the_code`
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Shaadi619&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shaadi619&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub trophies" />
+</p>
+
+## `fun_corner`
 
 - I enjoy work that looks clean and feels well thought out
 - I’m still building up this profile, so it will keep evolving with my projects
