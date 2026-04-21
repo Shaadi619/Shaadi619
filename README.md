@@ -1,63 +1,63 @@
-<h1 align="center">Hi, I'm Shaad</h1>
+<h1 align="center">Shaad</h1>
 
 <p align="center">
-  AI student, curious builder, and someone who enjoys turning class ideas into real projects.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+student+building+real+projects;Exploring+IoT%2C+ESP32%2C+and+intelligent+systems;Learning+by+turning+ideas+into+working+code" alt="Typing intro" />
 </p>
 
 <p align="center">
-  Right now I’m mainly exploring <strong>Artificial Intelligence</strong>, <strong>IoT systems</strong>, and practical projects that help me learn by building.
+  <a href="https://github.com/Shaadi619"><img src="https://img.shields.io/badge/GitHub-Shaadi619-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:shaadssem@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Shaadi619&style=for-the-badge&color=1f6feb" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shaadi619/IOT_CLASS_PROJECT">IoT Project</a> •
-  <a href="https://github.com/Shaadi619/Advanced-AI_Class">AI Class Work</a> •
-  <a href="mailto:shaadssem@gmail.com">Email Me</a>
+  <strong>AI</strong> • <strong>IoT</strong> • <strong>ESP32</strong> • <strong>Python</strong> • <strong>Project-based learning</strong>
 </p>
 
 ---
 
-## About me
+## `whoami`
 
-- I’m currently focused on learning more about AI and how intelligent systems work in real applications.
-- I enjoy projects that mix software, logic, and hardware instead of just theory.
-- Most of what I’m building right now comes from class work, experiments, and personal curiosity.
-- I’m open to collaborating on beginner-friendly AI or IoT projects.
+I’m Shaad, a student who enjoys building things that feel practical, interactive, and a little smarter than the usual classroom demo. Right now I’m mainly focused on artificial intelligence and IoT, especially projects where software logic connects to real hardware.
 
-## What I’m working on
+I like keeping my work clean, understandable, and honest to where I am in the learning process. Most of my repositories are part of that journey: class projects, experiments, and systems I built to learn by actually doing.
 
-- Building small but meaningful AI projects that improve my practical skills
-- Exploring ESP32 and sensor-based systems through IoT coursework
-- Improving how I document and present my work on GitHub
+## `currently_building`
 
-## Featured projects
+- AI coursework and small experiments that help me understand concepts by applying them
+- ESP32 and sensor-based IoT systems with real decision logic
+- Better documentation and presentation for the projects I publish
+
+## `featured_projects`
 
 ### [Smart Traffic Light System](https://github.com/Shaadi619/IOT_CLASS_PROJECT)
-An ESP32-based IoT traffic system that uses sensors, a pedestrian button, countdown display, buzzer alerts, and a night mode to simulate a smarter traffic controller.
+An ESP32-based traffic controller that responds to vehicle detection, pedestrian requests, ambient light, and motion input. It includes a countdown display, buzzer alerts, night mode, and a small web dashboard for live monitoring.
 
 ### [Advanced AI Class](https://github.com/Shaadi619/Advanced-AI_Class)
-A space for my AI class notebooks, experiments, and coursework as I keep learning more about the field.
+A growing collection of notebooks, exercises, and class work from my AI studies as I build a stronger foundation in the field.
 
-## Tech I’m learning and using
+## `tech_stack`
 
-`Python` `Jupyter Notebook` `C++` `Arduino / ESP32` `AI` `IoT` `GitHub`
-
-## GitHub snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaadi619&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Shaad's GitHub stats" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,git,github" alt="Tech stack icons" />
 </p>
 
+`Artificial Intelligence` `IoT Systems` `ESP32` `Jupyter Notebook` `C++` `Python`
+
+## `github_overview`
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaadi619&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaadi619&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaadi619&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-## A little beyond tech
+## `outside_the_code`
 
-- I like keeping my work clean, simple, and easy to understand.
-- I’m still growing my profile, so this page will keep changing as I build more.
-- Fun fact: I’m a Chelsea fan.
+- I enjoy work that looks clean and feels well thought out
+- I’m still building up this profile, so it will keep evolving with my projects
+- Fun fact: I’m a Chelsea fan
 
-## Connect with me
+## `connect`
 
 - Email: `shaadssem@gmail.com`
 - GitHub: [github.com/Shaadi619](https://github.com/Shaadi619)
@@ -65,5 +65,5 @@ A space for my AI class notebooks, experiments, and coursework as I keep learnin
 ---
 
 <p align="center">
-  <em>Still learning, still building, and trying to make every project a little better than the last one.</em>
+  <em>Building step by step, learning properly, and making each project better than the last.</em>
 </p>
